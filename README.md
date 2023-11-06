@@ -3,8 +3,8 @@
 
 ### ☁️ Stats :
 
-<img src="https://cdn.dribbble.com/users/696856/screenshots/5023371/media/3de23f88190137382e17253888a3d4a2.gif" width="150" height="195"/> [![GitHub Streak](https://streak-stats.demolab.com?user=LASKAV&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-<img src="https://cdn.dribbble.com/users/696856/screenshots/5023371/media/3de23f88190137382e17253888a3d4a2.gif" width="150" height="195"/>
+<img src="https://cdn.dribbble.com/users/696856/screenshots/5023371/media/3de23f88190137382e17253888a3d4a2.gif" width="180" height="195"/> [![GitHub Streak](https://streak-stats.demolab.com?user=LASKAV&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<img src="https://cdn.dribbble.com/users/696856/screenshots/5023371/media/3de23f88190137382e17253888a3d4a2.gif" width="180" height="195"/>
 
 ### ⚙️ Languages:
 <div>
