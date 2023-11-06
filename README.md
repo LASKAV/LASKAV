@@ -3,7 +3,8 @@
 
 ### ☁️ Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LASKAV&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30%"/>
+<img src="https://cdn.dribbble.com/users/406059/screenshots/1430999/media/acd9815e2a512aa7b84b01ecd5848e8f.gif" width="150" height="195"/> [![GitHub Streak](https://streak-stats.demolab.com?user=LASKAV&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<img src="https://cdn.dribbble.com/users/406059/screenshots/1430999/media/acd9815e2a512aa7b84b01ecd5848e8f.gif" width="150" height="195"/>
 
 ### ⚙️ Languages:
 <div>
