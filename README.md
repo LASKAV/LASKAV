@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hi+,+friend!+🦾)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=01+01+001)](https://git.io/typing-svg) 
 
 
 ### ☁️ Stats :
