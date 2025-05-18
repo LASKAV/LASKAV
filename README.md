@@ -1,10 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&lines=0+1+00+1+0000+0+1+1+0+1+00+1)](https://git.io/typing-svg) 
 
-
-### ☁️ Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LASKAV&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
 ### ⚙️ Languages:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="c" **alt="Git" width="40" height="40"/>
